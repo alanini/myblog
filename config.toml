@@ -25,9 +25,9 @@ enableEmoji = true
     # language code
     languageCode = "en"
     # website title
-    title = "LoveIt"
+    title = "Alan Ini"
     # language name
-    languageName = "English"
+    #languageName = "English"
     # whether to include Chinese/Japanese/Korean
     hasCJKLanguage = false
     # default amount of posts in each pages
