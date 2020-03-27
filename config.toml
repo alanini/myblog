@@ -99,8 +99,7 @@ enableEmoji = true
             # URL of avatar shown in home page
             avatarURL = "/images/avatar.png"
             # subtitle shown in home page
-            subtitle = "Hola, soy Alan. Y espero que te hayas topado con este sitio de manera intencional. 
-            En este blog comparto mi entusiasmo por los datos, programación y otras coas más"
+            subtitle = "Hola, soy Alan.<br />Y espero que te hayas topado con este sitio de manera intencional.<br />En este blog comparto mi entusiasmo por los datos, programación y otras coas más..."
             # whether to use typeit animation for subtitle
             typeit = true
             # whether to show social links
