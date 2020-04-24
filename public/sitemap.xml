@@ -2,27 +2,6 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>/theme-documentation-basics/</loc><lastmod>2020-03-24T18:02:48-03:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/theme-documentation-content/</loc><lastmod>2020-03-24T18:02:48-03:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/theme-documentation-shortcodes/</loc><lastmod>2020-03-24T18:02:48-03:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/basic-markdown-syntax/</loc><lastmod>2020-03-24T18:02:48-03:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/emoji-support/</loc><lastmod>2020-03-24T18:02:48-03:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/</loc><lastmod>2020-03-24T18:02:48-03:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/categories/</loc><lastmod>2020-03-24T18:02:48-03:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/tags/configuration/</loc><lastmod>2020-03-24T18:02:48-03:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/categories/documentation/</loc><lastmod>2020-03-24T18:02:48-03:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/tags/installation/</loc><lastmod>2020-03-24T18:02:48-03:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/posts/</loc><lastmod>2020-03-24T18:02:48-03:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/tags/</loc><lastmod>2020-03-24T18:02:48-03:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/tags/content/</loc><lastmod>2020-03-24T18:02:48-03:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/tags/markdown/</loc><lastmod>2020-03-24T18:02:48-03:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/tags/shortcodes/</loc><lastmod>2020-03-24T18:02:48-03:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/categories/markdown/</loc><lastmod>2020-03-24T18:02:48-03:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/tags/emoji/</loc><lastmod>2020-03-24T18:02:48-03:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/about/</loc><lastmod>2020-03-24T18:02:48-03:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/post/2015-07-23-r-rmarkdown/</loc><lastmod>2020-03-24T18:02:48-03:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/tags/plot/</loc><lastmod>2020-03-24T18:02:48-03:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/post/</loc><lastmod>2020-03-24T18:02:48-03:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/categories/r/</loc><lastmod>2020-03-24T18:02:48-03:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/tags/r-markdown/</loc><lastmod>2020-03-24T18:02:48-03:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/tags/regression/</loc><lastmod>2020-03-24T18:02:48-03:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
+            <loc>/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
